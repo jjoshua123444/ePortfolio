@@ -4,8 +4,9 @@
 
 - [Refinement Plan and Code Review](#refinement-plan-and-code-review)
   - [Code Review](#code-review)
-- [Software Design and Engineering](#software-design-and-egineering)
-  - [Software Design and Engineering Enhancement](#software-design-and-egineering-enhancement)
+- [Software Design and Engineering](#software-design-and-engineering)
+  - [Software Design and Engineering Enhancement](#software-design-and-engineering-enhancement)
+  
 
 ## Refinement Plan and Code Review
 

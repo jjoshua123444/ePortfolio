@@ -30,7 +30,7 @@ With this enhancement, I met the course objectives planned in module one. Implem
 Reflecting on the process of enhancing and modifying the artifact, I have learned new things as well faced challenges. This enhancement specifically gave me insight into understanding the importance of the user. Keeping the user in mind allowed me to focus on improving the user interface (UI) and the user experience (UX) in the design of the enhancement.
 
 ### Software Design and Engineering Enhancement
-[![Code Artifact One](https://img.shields.io/badge/Code%20Artifact%20One-View%20on%20GitHub-lightgrey.svg?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Software%20Design%20and%20Engineering/InventoryApp.zip)
+[![Enhancement One](https://img.shields.io/badge/Code%20Artifact%20One-View%20on%20GitHub-lightgrey.svg?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Software%20Design%20and%20Engineering/InventoryApp.zip)
 
 
 

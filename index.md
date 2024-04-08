@@ -23,23 +23,25 @@ The Artifact I'm going to look at is my inventory application. The goal of this 
 
 The artifact I selected for the software design and engineering category justifies the inclusion for my ePortfolio. This application demonstrates my skills in software development. With the implementation of the side menu with log out functionality, account settings to allow the user to change their account details and allow the user to delete their account, as well as ensuring users register with their email. I was able to demonstrate my ability to design user-friendly interfaces, implement CRUD (Create, Read, Update, Delete) functionality, and integrate backend databases into mobile applications. Below are some screenshots to give a visual of my enhancement.
 
-<div style="text-align: center;">
-    <img src="images/Enhacement 1-1.png" width="480px" />
-</div>
-<div style="text-align: center;">
-    <img src="images/Enhacement 1-2.png" width="480px" />
-</div>
-<div style="text-align: center;">
-    <img src="images/Enhacement 1-3.png" width="480px" />
-</div>
-<div style="text-align: center;">
-    <img src="images/Enhacement 1-4.png" width="480px" />
-</div>
-<div style="text-align: center;">
-    <img src="images/Enhacement 1-5.png" width="480px" />
-</div>
-<div style="text-align: center;">
-    <img src="images/Enhacement 1-6.png" width="480px" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 1-1.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 1-2.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 1-3.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 1-4.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 1-5.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 1-6.png" width="300px" />
+    </div>
 </div>
 
 With this enhancement, I met the course objectives planned in module one. Implementing a side menu with editing and deleting user accounts functionality aligns with Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. Next, I was able to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals. I was able to achieve this by integrating email verification for user registration, and the sidebar menu demonstrates an innovative approach in software development. Lastly, throughout this enhancement I demonstrated a security mindset by anticipating potential vulnerabilities and designing solutions to mitigate risks. Implementing user authentication and authorization will ensure the privacy and security of user data. Additionally, I followed best practices by including confirmation messages for important user actions. For example, when a user would like to delete their account, they have been prompted and must confirm the change.

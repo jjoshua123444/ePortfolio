@@ -22,26 +22,24 @@
 The Artifact I'm going to look at is my inventory application. The goal of this application is to track inventory items. This application was developed within android studio using java featuring an SQLite database. This application was from my CS 360 Mobile Architecture and Programming course and was created last term.
 
 The artifact I selected for the software design and engineering category justifies the inclusion for my ePortfolio. This application demonstrates my skills in software development. With the implementation of the side menu with log out functionality, account settings to allow the user to change their account details and allow the user to delete their account, as well as ensuring users register with their email. I was able to demonstrate my ability to design user-friendly interfaces, implement CRUD (Create, Read, Update, Delete) functionality, and integrate backend databases into mobile applications. Below are some screenshots to give a visual of my enhancement.
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 1-1.png" width="200px" />
+        <img src="images/Enhacement 1-1.png" width="300px" />
     </div>
     <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 1-2.png" width="200px" />
+        <img src="images/Enhacement 1-2.png" width="300px" />
     </div>
     <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 1-3.png" width="200px" />
-    </div>
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 1-4.png" width="200px" />
+        <img src="images/Enhacement 1-3.png" width="300px" />
     </div>
     <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 1-5.png" width="200px" />
+        <img src="images/Enhacement 1-4.png" width="300px" />
     </div>
     <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 1-6.png" width="200px" />
+        <img src="images/Enhacement 1-5.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 1-6.png" width="300px" />
     </div>
 </div>
 

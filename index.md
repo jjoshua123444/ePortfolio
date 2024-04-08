@@ -2,6 +2,7 @@
 
 ### Table of Contents
 
+- [Professional Self Assessment](#self-assessment)
 - [Code Review](#code-review)
   - [Code Review](#code-review)
 - [Software Design and Engineering](#software-design-and-engineering)

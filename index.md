@@ -8,7 +8,7 @@
 - [Software Design and Engineering](#software-design-and-engineering)
   - [Software Design and Engineering Enhancement](#software-design-and-engineering-enhancement)
 - [Algorithms and Data Structure](#algorithms-and-data-structure)
-  - [Algorithms and Data Structure Enhancement](#algorithms-and-data-structure-enhancement)
+  - [Databases](#algorithms-and-data-structure-enhancement)
 - [Databases](#databases)
   - [Databases Enhancement](#databases-enhancement)
   
@@ -88,7 +88,7 @@ Allowing the user to filter items efficiently enhances the user experience and s
 Enhancing and modifying the artifact, partially in implementing the search functionality, allowed me to learn and gain knowledge. Specifically in the process I was able to learn about using RecyclerView. RecyclerView is built within the Android Studio SDK and designed to display large sets of data. It works by recycling views moving in and out of the user’s view. With the learning process I was able to get an understanding of how linear search algorithm and the RecylerView work together for my enhancement. The linear search algorithm was applied to the dataset in my database for inventory items, then the RecylerView updates the dataset in a real time display for the user. When working on my enhancement, I faced a few challenges. Initially when adding the search functionality as well as the RecylerView, I had issues with the RecylerView itself and not the linear search algorithm. The RecylerView was only displaying one item from the user inventory database even though there were multiple items. The problem occurred because I had an improper set up of the adapter. Another challenge I faced was when deleting an inventory item from the list. I found that although deleting an inventory item removed it from the database as expected, the deleted item would reappear in the list when searched. After reviewing my code, I realized that I was not updating the originalItemsList whenever the new itemList was being modified.
 
 ### Algorithms and Data Structure Enhancement
-[![Enhancement One](https://img.shields.io/badge/Code%20Artifact%20One-View%20on%20GitHub-lightgrey.svg?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Algorithms%20and%20Data%20Structures/)
+[![Enhancement Two](https://img.shields.io/badge/Code%20Artifact%20One-View%20on%20GitHub-lightgrey.svg?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Algorithms%20and%20Data%20Structures/)
 
 
 ## Databases
@@ -130,25 +130,14 @@ As well using the sendPasswordResetEmail method to securely send a password rese
     </div>
 
 
-
- 
-
-
-
-
-
-
-
-
-
-
 •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
 Integrating Firebase Authentication I was able to meet this course outcome. Firebase, being a service that is provided by Google, offers a platform for collaboration among diverse audiences, which will enable more organizational decision-making in the field of computer science. By using Firebase, this allows for an environment where others familiar with this platform can contribute and improve my artifact.   
 
 
 Reflecting on the process of enhancing and modifying, there were many valuable skills I have learned when improving my artifact. Implementing Firebase Authentication gave me a better understanding of utilizing different technology, API integration, libraries, and frameworks it uses. In addition to this, it allowed me to better understand the process of transitioning from an SQLite database to a cloud database. This has given me more confidence in my ability to enhance security and usability. While learning a lot in this enhancement there were some challenges I have faced. Previously stated earlier, creating the initial hashing of the passwords using the SHA-256 algorithm, gave me the realization that there was a need to implement a working password reset using an email address. Transitioning from SQLite to Firebase Authentication posed a challenge to me initially due to the fact I had to make sure my previous classes were set up correctly for this integration.
 
-
+### Databases
+[![Enhancement Three](https://img.shields.io/badge/Code%20Artifact%20One-View%20on%20GitHub-lightgrey.svg?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Databases/)
 
 
 

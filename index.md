@@ -129,7 +129,7 @@ As well using the sendPasswordResetEmail method to securely send a password rese
         <img src="images/Enhacement 3-2.png" width="500px" />
     </div>
     <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 3-3.png" width="500px" />
+        <img src="images/Enhacement 3-3.png" width="500px" />  
     </div>
 
 

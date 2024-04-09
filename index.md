@@ -8,7 +8,7 @@
 - [Software Design and Engineering](#software-design-and-engineering)
   - [Software Design and Engineering Enhancement](#software-design-and-engineering-enhancement)
 - [Algorithms and Data Structure](#algorithms-and-data-structure)
-  - [Databases](#algorithms-and-data-structure-enhancement)
+  - [Algorithms and Data Structure Enhancement](#algorithms-and-data-structure-enhancement)
 - [Databases](#databases)
   - [Databases Enhancement](#databases-enhancement)
   

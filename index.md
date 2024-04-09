@@ -115,10 +115,18 @@ Integrating Firebase Authentication provided a more efficient solution for my ar
 
 •	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
 By implementing password hashing and password reset functionality using Firebase Authentication, I have demonstrated a proactive approach to potential security vulnerabilities in my inventory application. Applying these changes ensures the privacy and security of user data. I also realized I design flaw with my current application that used SQLite to store user information locally. Using the createUserWithEmailAndPassword method to save new users information to the Firebase Authentication dashboard with a hashed password.
-
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 3-1.png" width="300px" />
+    </div>
  
 As well using the sendPasswordResetEmail method to securely send a password reset link to the user's email.
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 3-2.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 3-3.png" width="300px" />
+    </div>
 
 
 

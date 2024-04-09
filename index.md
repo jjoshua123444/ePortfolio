@@ -60,9 +60,22 @@ Reflecting on the process of enhancing and modifying the artifact, I have learne
 The Artifact I'm going to look at is my inventory application. The goal of this application is to track inventory items. This application was developed within android studio using java featuring an SQLite database. This application was from my CS 360 Mobile Architecture and Programming course and was created last term. 
 
 Selecting my inventory application for the algorithms and data structures justifies the inclusion for my ePortfolio. Implementing the linear search functionality enhances my inventory application by enabling users to locate a specific item. This enhancement shows my proficiency in algorithm design, particularly through the implementation of the linear search algorithm. Additionally, integrating the search bar and interacting with the RecyclerView demonstrates my skills in UI/UX design and event handling. The artifact was improved by enhancing the user experience with search functionality, addressing a limitation I had with my original application.
-With the addition of search functionality on my inventory screen, I was able to meet the course objective planned in module one.
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 2-1.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 2-2.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 2-3.png" width="300px" />
+    </div>
+    <div style="text-align: center; margin: 5px;">
+        <img src="images/Enhacement 2-4.png" width="300px" />
+    </div>
+</div>
 
-This enhancement aligns with:  
+With the addition of search functionality on my inventory screen, I was able to meet the course objective planned in module one. This enhancement aligns with:  
 •	Designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
 
 I was faced with the problem where if a user were to have a large inventory list, there was no current way to search for a specific item. Having an SQLite database already, that saves a user's items to their own unique dataset based on login information, there was a need for an effective solution to enhance the user experience. Implementing the linear search algorithm allows to iterate through a user's items from the dataset in the database efficiently. I was able to achieve this by using the linearSearch method iterating through the itemList and checking if each item's name contains the query string. If the match is found the item is, then added to the searchResultsList. The time complexity of the linear search method is O(n) since the array is completed once, where n is the number of items in the list. Best case complexity is O(1) and worse cases is O(n). Finally, the searchResults are returned with the items that match the search. Overall time complexity of the onQueryTextChange is also O(n), where n is the number of items in the original list (originalItemsList). The linear search grows linearly with the number of items in the users lists. In this enhancement I managed trade-offs as well by considering algorithm efficiency, user experience and the implementation of the algorithm itself. 

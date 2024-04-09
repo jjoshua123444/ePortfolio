@@ -141,7 +141,7 @@ Integrating Firebase Authentication I was able to meet this course outcome. Fire
 Reflecting on the process of enhancing and modifying, there were many valuable skills I have learned when improving my artifact. Implementing Firebase Authentication gave me a better understanding of utilizing different technology, API integration, libraries, and frameworks it uses. In addition to this, it allowed me to better understand the process of transitioning from an SQLite database to a cloud database. This has given me more confidence in my ability to enhance security and usability. While learning a lot in this enhancement there were some challenges I have faced. Previously stated earlier, creating the initial hashing of the passwords using the SHA-256 algorithm, gave me the realization that there was a need to implement a working password reset using an email address. Transitioning from SQLite to Firebase Authentication posed a challenge to me initially due to the fact I had to make sure my previous classes were set up correctly for this integration.
 
 ### Databases Enhancement
-[![Enhancement Three](https://img.shields.io/badge/Code%20Artifact%20One-View%20on%20GitHub-lightgrey.svg?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Databases/)
+[![Enhancement Three](https://img.shields.io/badge/Code%20Artifact%20One-View%20on%20GitHub-lightgrey.svg?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Databases)
 
 
 

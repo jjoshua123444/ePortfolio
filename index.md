@@ -118,23 +118,15 @@ Integrating Firebase Authentication provided a more efficient solution for my ar
 •	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
 
 By implementing password hashing and password reset functionality using Firebase Authentication, I have demonstrated a proactive approach to potential security vulnerabilities in my inventory application. Applying these changes ensures the privacy and security of user data. I also realized I design flaw with my current application that used SQLite to store user information locally. Using the createUserWithEmailAndPassword method to save new users information to the Firebase Authentication dashboard with a hashed password.  
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 3-1.png" width="500px" />
-    </div>
+![Enhancement 3-1](images/Enhacement%203-1.png)
  
 As well using the sendPasswordResetEmail method to securely send a password reset link to the user's email.
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 3-2.png" width="500px" />
-    </div>
-    <div style="text-align: center; margin: 5px;">
-        <img src="images/Enhacement 3-3.png" width="500px" />  
-    </div>
+![Enhancement 3-2](images/Enhacement%203-2.png)
+![Enhancement 3-3](images/Enhacement%203-3.png)
 
 - Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
 
-Integrating Firebase Authentication helped me meet this course outcome. Firebase, being a service provided by Google, offers a platform for collaboration among diverse audiences, enabling more organizational decision-making in computer science. By using Firebase, others familiar with this platform can contribute and improve my artifact.
+Integrating Firebase Authentication helped me meet this course outcome. Firebase, being a service provided by Google, offers a platform for collaboration among diverse audiences, enabling more organizational decision-making in the field of computer science. By using Firebase, others familiar with this platform can contribute and improve my artifact.
 
 Reflecting on the process of enhancing and modifying, I've learned valuable skills. Implementing Firebase Authentication gave me a better understanding of utilizing different technologies, API integration, libraries, and frameworks. It also helped me understand the process of transitioning from an SQLite database to a cloud database, boosting my confidence in enhancing security and usability.
 
@@ -145,4 +137,5 @@ While learning during this enhancement, I faced challenges. Initially, creating 
 [![Enhancement Three](https://img.shields.io/badge/Enhancement%20Three-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Databases)
 
 ## Test
+
 

@@ -129,7 +129,6 @@ As well using the sendPasswordResetEmail method to securely send a password rese
 Integrating Firebase Authentication helped me meet this course outcome. Firebase, being a service provided by Google, offers a platform for collaboration among diverse audiences, enabling more organizational decision-making in the field of computer science. By using Firebase, others familiar with this platform can contribute and improve my artifact.
 
 Reflecting on the process of enhancing and modifying, I've learned valuable skills. Implementing Firebase Authentication gave me a better understanding of utilizing different technologies, API integration, libraries, and frameworks. It also helped me understand the process of transitioning from an SQLite database to a cloud database, boosting my confidence in enhancing security and usability.
-
 While learning during this enhancement, I faced challenges. Initially, creating the initial hashing of passwords using the SHA-256 algorithm made me realize the need to implement a working password reset using an email address. Transitioning from SQLite to Firebase Authentication was challenging due to ensuring my previous classes were set up correctly for this integration.
 
 ### Databases Enhancement

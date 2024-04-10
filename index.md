@@ -132,16 +132,17 @@ As well using the sendPasswordResetEmail method to securely send a password rese
         <img src="images/Enhacement 3-3.png" width="500px" />  
     </div>
 
+- Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
 
-•	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
+Integrating Firebase Authentication helped me meet this course outcome. Firebase, being a service provided by Google, offers a platform for collaboration among diverse audiences, enabling more organizational decision-making in computer science. By using Firebase, others familiar with this platform can contribute and improve my artifact.
 
-Integrating Firebase Authentication I was able to meet this course outcome. Firebase, being a service that is provided by Google, offers a platform for collaboration among diverse audiences, which will enable more organizational decision-making in the field of computer science. By using Firebase, this allows for an environment where others familiar with this platform can contribute and improve my artifact.  
+Reflecting on the process of enhancing and modifying, I've learned valuable skills. Implementing Firebase Authentication gave me a better understanding of utilizing different technologies, API integration, libraries, and frameworks. It also helped me understand the process of transitioning from an SQLite database to a cloud database, boosting my confidence in enhancing security and usability.
 
-
-Reflecting on the process of enhancing and modifying, there were many valuable skills I have learned when improving my artifact. Implementing Firebase Authentication gave me a better understanding of utilizing different technology, API integration, libraries, and frameworks it uses. In addition to this, it allowed me to better understand the process of transitioning from an SQLite database to a cloud database. This has given me more confidence in my ability to enhance security and usability. While learning a lot in this enhancement there were some challenges I have faced. Previously stated earlier, creating the initial hashing of the passwords using the SHA-256 algorithm, gave me the realization that there was a need to implement a working password reset using an email address. Transitioning from SQLite to Firebase Authentication posed a challenge to me initially due to the fact I had to make sure my previous classes were set up correctly for this integration.  
-
+While learning during this enhancement, I faced challenges. Initially, creating the initial hashing of passwords using the SHA-256 algorithm made me realize the need to implement a working password reset using an email address. Transitioning from SQLite to Firebase Authentication was challenging due to ensuring my previous classes were set up correctly for this integration.
 
 ### Databases Enhancement
+
 [![Enhancement Three](https://img.shields.io/badge/Enhancement%20Three-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Databases)
 
 ## Test
+

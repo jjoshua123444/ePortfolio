@@ -14,6 +14,7 @@
  
 
 ## Code Review
+In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 
 
 ### Code Review
 [![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)

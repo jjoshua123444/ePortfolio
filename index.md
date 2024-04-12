@@ -2,7 +2,6 @@
 
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)
-- [Course Outcomes](#course-outcomes)
 - [Code Review](#code-review)
   - [Code Review](#code-review)
 - [Software Design and Engineering](#software-design-and-engineering)
@@ -13,8 +12,23 @@
   - [Databases Enhancement](#databases-enhancement)
 
 ## Professional Self Assessment
+Throughout my journey in the Computer Science program and the development of my ePortfolio, I have not only honed my technical skills but also developed a comprehensive set of competencies that will prepare me to succeed in the field of computer science. This ePortfolio serves as a reflection on how completing my coursework has contributed to showcasing my strengths, shaping my professional goals and values, and enhancing my employability in the computer science field. 
 
-## Course Outcomes
+Completing various courses while attending SNHU has provided me with a solid foundation in computer science principles, allowing me to effectively apply my knowledge to practical scenarios. These courses have given me the opportunity to demonstrate my ability to collaborate in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and security. SNHU has solidified these skills by providing courses that help me collaborate in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. Throughout these courses, we were given scenarios where we were hired employees. The company would provide a list of requirements and goals for each project. Also, we had to give stakeholders information on the project's requirements and goals to give a better understanding. 
+
+My ePortfolio highlights my selected artifact which is my Inventory Application from my CS 360 Mobile Architect & Programming class. This application shows my abilities and skills around Java, android studio, SQLite databases, CRUD, Firebase Authentication, API integration, libraries, and frameworks, UI/UX design, and linear search algorithms.  
+
+* By selecting this artifact and applying each enhancement, I have demonstrated my ability to reach the following course outcomes: 
+
+* Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science 
+
+* Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts 
+
+* Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices 
+
+* Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals 
+
+* Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources 
 
 ## Code Review
 In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 

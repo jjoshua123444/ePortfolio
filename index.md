@@ -31,7 +31,7 @@ My ePortfolio highlights my selected artifact which is my Inventory Application 
 
 * Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources 
 
-## Code Review
+<img id="code-review" src="images/Code Review.png" alt="Code Review" title="Code Review" />
 In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 
 
 ### Code Review

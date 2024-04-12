@@ -14,9 +14,6 @@
  
 
 ## Code Review
-
-### Code Review
-
 [![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
 
 

@@ -3,7 +3,7 @@
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)
 - [Code Review](#code-review)
-  - [Code Review](#code-review-video)
+  - [Code Review Video](#code-review-video)
 - [Software Design and Engineering](#software-design-and-engineering)
   - [Software Design and Engineering Enhancement](#software-design-and-engineering-enhancement)
 - [Algorithms and Data Structure](#algorithms-and-data-structure)

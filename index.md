@@ -2,6 +2,7 @@
 
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)
+- [Course Outcomes](#course-outcomes)
 - [Code Review](#code-review)
   - [Code Review](#code-review)
 - [Software Design and Engineering](#software-design-and-engineering)
@@ -11,7 +12,9 @@
 - [Databases](#databases)
   - [Databases Enhancement](#databases-enhancement)
 
- 
+## Professional Self Assessment
+
+##Course Outcomes
 
 ## Code Review
 In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 

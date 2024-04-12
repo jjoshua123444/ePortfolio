@@ -11,7 +11,8 @@
 - [Databases](#databases)
   - [Databases Enhancement](#databases-enhancement)
 
-## Professional Self Assessment
+![Self Assessment Image](images/ProfessionalSelfAssessment.png)
+
 Throughout my journey in the Computer Science program and the development of my ePortfolio, I have not only honed my technical skills but also developed a comprehensive set of competencies that will prepare me to succeed in the field of computer science. This ePortfolio serves as a reflection on how completing my coursework has contributed to showcasing my strengths, shaping my professional goals and values, and enhancing my employability in the computer science field. 
 
 Completing various courses while attending SNHU has provided me with a solid foundation in computer science principles, allowing me to effectively apply my knowledge to practical scenarios. These courses have given me the opportunity to demonstrate my ability to collaborate in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and security. SNHU has solidified these skills by providing courses that help me collaborate in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. Throughout these courses, we were given scenarios where we were hired employees. The company would provide a list of requirements and goals for each project. Also, we had to give stakeholders information on the project's requirements and goals to give a better understanding. 

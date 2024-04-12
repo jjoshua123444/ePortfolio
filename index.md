@@ -14,7 +14,7 @@
 
 ## Professional Self Assessment
 
-##Course Outcomes
+## Course Outcomes
 
 ## Code Review
 In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 

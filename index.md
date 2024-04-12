@@ -11,7 +11,7 @@
 - [Databases](#databases)
   - [Databases Enhancement](#databases-enhancement)
 
-![Self Assessment Image](images/ProfessionalSelfAssessment.png)
+![Professional Self Assessment](images/ProfessionalSelfAssessment.png)
 
 Throughout my journey in the Computer Science program and the development of my ePortfolio, I have not only honed my technical skills but also developed a comprehensive set of competencies that will prepare me to succeed in the field of computer science. This ePortfolio serves as a reflection on how completing my coursework has contributed to showcasing my strengths, shaping my professional goals and values, and enhancing my employability in the computer science field. 
 

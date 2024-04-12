@@ -3,7 +3,7 @@
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)
 - [Code Review](#code-review)
-  - [Code Review](#code-review)
+  - [Code Review](#code-review-video)
 - [Software Design and Engineering](#software-design-and-engineering)
   - [Software Design and Engineering Enhancement](#software-design-and-engineering-enhancement)
 - [Algorithms and Data Structure](#algorithms-and-data-structure)
@@ -34,7 +34,7 @@ My ePortfolio highlights my selected artifact which is my Inventory Application 
 <img id="code-review" src="images/Code Review.png" alt="Code Review" title="Code Review" />
 In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 
 
-### Code Review
+### Code Review Video
 [![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
 
 

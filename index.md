@@ -72,7 +72,8 @@ Reflecting on the process of enhancing and modifying the artifact, I have learne
 ### Software Design and Engineering Enhancement
 [![Enhancement One](https://img.shields.io/badge/Enhancement%20One-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Software%20Design%20and%20Engineering/)
 
-## Algorithms and Data Structure
+<img id="algorithms-and-data-structure" src="images/Algorithms and Data Structure.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
+
 
 
 The Artifact I'm going to look at is my inventory application. The goal of this application is to track inventory items. This application was developed within android studio using java featuring an SQLite database. This application was from my CS 360 Mobile Architecture and Programming course and was created last term. 

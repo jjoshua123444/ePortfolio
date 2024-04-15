@@ -36,7 +36,17 @@ My ePortfolio highlights my selected artifact which is my Inventory Application 
 In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 
 
 ### Code Review Video
-[![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
+<div style="position: relative;">
+  <a href="https://youtu.be/QdR5M0L0On4">
+    <img src="https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg" alt="Alt Text" />
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="white">
+        <path d="M8 5v14l11-7z"/>
+        <path d="M0 0h24v24H0z" fill="none"/>
+      </svg>
+    </div>
+  </a>
+</div>
 
 
 <img id="software-design-and-engineering" src="images/Software Design and Engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />

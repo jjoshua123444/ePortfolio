@@ -1,4 +1,5 @@
-## Welcome
+![Welcome](images/Welcome.png)
+
 
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)

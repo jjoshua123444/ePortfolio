@@ -43,6 +43,7 @@ In my code review I discussed my artifact I have selected for the three key comp
 [![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
 
 ### Initial Plan
+For category one, my plan for enhancement is expand on to my current applications user account. I would like to request new users to register with an email address. In addition, I plan to incorporate a side menu. Within the menu I plan to add log out functionality, allowing for the logged in user to log out of the account. As well as within the side bar menu I plan to add an account settings button. Pressing the button will prompt the user to a new screen allowing the user to change their email, username, password, or to delete their account. 
 
 <img id="software-design-and-engineering" src="images/Software Design and Engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 

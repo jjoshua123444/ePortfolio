@@ -38,7 +38,7 @@ In my code review I discussed my artifact I have selected for the three key comp
 [![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
 
 
-## Software Design and Engineering
+<img id="software-design-and-engineering" src="images/Software Design and Engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 
 The Artifact I'm going to look at is my inventory application. The goal of this application is to track inventory items. This application was developed within android studio using java featuring an SQLite database. This application was from my CS 360 Mobile Architecture and Programming course and was created last term.

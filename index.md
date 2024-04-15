@@ -4,6 +4,7 @@ My name is Joshua James and welcome to my ePortfolio. My ePortfolio consists of 
 
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)
+  - [Initial Plan](#initial-plan)
 - [Code Review](#code-review)
   - [Code Review Video](#code-review-video)
 - [Software Design and Engineering](#software-design-and-engineering)
@@ -31,7 +32,9 @@ By selecting this artifact and applying each enhancement, I have demonstrated my
 
 * Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals 
 
-* Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources 
+* Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+### Initial Plan
 
 <img id="code-review" src="images/Code Review.png" alt="Code Review" title="Code Review" />
 In my code review I discussed my artifact I have selected for the three key computer science categories: software engineering and design, algorithms and data structure, and databases. Throughout I discussed what the code does and different features and functions. As well as analyze my existing code for weaknesses, limitations, and vulnerabilities and explained my plan for enhancements. 

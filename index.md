@@ -37,8 +37,7 @@ In my code review I discussed my artifact I have selected for the three key comp
 
 ### Code Review Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QdR5M0L0On4" frameborder="0" allowfullscreen></iframe>
-
+[![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
 
 
 

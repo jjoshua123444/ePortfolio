@@ -1,7 +1,6 @@
 ## Welcome
 
 ### Table of Contents
-
 - [Professional Self Assessment](#self-assessment)
 - [Code Review](#code-review)
   - [Code Review Video](#code-review-video)

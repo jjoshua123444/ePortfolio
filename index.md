@@ -19,7 +19,7 @@ Completing various courses while attending SNHU has provided me with a solid fou
 
 My ePortfolio highlights my selected artifact which is my Inventory Application from my CS 360 Mobile Architect & Programming class. This application shows my abilities and skills around Java, android studio, SQLite databases, CRUD, Firebase Authentication, API integration, libraries, and frameworks, UI/UX design, and linear search algorithms.  
 
-* By selecting this artifact and applying each enhancement, I have demonstrated my ability to reach the following course outcomes: 
+By selecting this artifact and applying each enhancement, I have demonstrated my ability to reach the following course outcomes: 
 
 * Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science 
 

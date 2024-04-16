@@ -12,8 +12,10 @@ My name is Joshua James and welcome to my ePortfolio. My ePortfolio consists of 
   - [Software Design and Engineering Narrative](#software-design-and-engineering-narrative)
 - [Algorithms and Data Structure](#algorithms-and-data-structure)
   - [Algorithms and Data Structure Enhancement](#algorithms-and-data-structure-enhancement)
+  - [Algorithms and Data Structure Narrative](#algorithms-and-data-structure-narrative)
 - [Databases](#databases)
   - [Databases Enhancement](#databases-enhancement)
+  - [Databases Narrative](#databases-narrative)
 
 <img id="self-assessment" src="images/ProfessionalSelfAssessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
@@ -84,7 +86,9 @@ Reflecting on the process of enhancing and modifying the artifact, I have learne
 [![Enhancement One](https://img.shields.io/badge/Enhancement%20One-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Software%20Design%20and%20Engineering/)
 
 ### Software Design and Engineering Narrative
-[![Software Design and Engineering Narrative](https://img.shields.io/badge/Enhancement%20One-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/blob/main/CS499/Software%20Design%20and%20Engineering%20Narritive.pdf)
+[![Software Design and Engineering Narrative](https://img.shields.io/badge/Software%20Design%20and%20Engineering%20Narrative-grey?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/blob/main/CS499/Software%20Design%20and%20Engineering%20Narritive.pdf)
+
+
 
 
 <img id="algorithms-and-data-structure" src="images/Algorithms and Data Structure.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
@@ -122,6 +126,10 @@ Enhancing and modifying the artifact, partially in implementing the search funct
 
 ### Algorithms and Data Structure Enhancement
 [![Enhancement Two](https://img.shields.io/badge/Enhancement%20Two-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Algorithms%20and%20Data%20Structures/)
+
+### Algorithms and Data Structure Narrative
+
+[![Algorithms and Data Structure Narrative](https://img.shields.io/badge/Algorithms%20and%20Data%20Structure%20Narrative-grey?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/blob/main/CS499/Algorithms%20and%20Data%20Structure%20Narritive.pdf)
 
 
 <img id="databases" src="images/Databases.png" alt="Databases" title="Databases" />
@@ -168,3 +176,10 @@ While learning during this enhancement, I faced challenges. Initially, creating 
 ### Databases Enhancement
 
 [![Enhancement Three](https://img.shields.io/badge/Enhancement%20Three-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Databases)
+
+### Databases Narrative
+
+[![Databases Narrative](https://img.shields.io/badge/Databases%20Narrative-grey?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/blob/main/CS499/Database%20Narritive.pdf)
+
+
+

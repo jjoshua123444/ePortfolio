@@ -43,7 +43,7 @@ In my code review I discussed my artifact I have selected for the three key comp
 [![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
 
 ### Initial Plan
-My inital plans for enhancements inlcudes:
+My inital plans for enhancements inlcuded:
 * For category one, my plan for enhancement is expand on to my current applications user account. I would like to request new users to register with an email address. In addition, I plan to incorporate a side menu. Within the menu I plan to add log out functionality, allowing for the logged in user to log out of the account. As well as within the side bar menu I plan to add an account settings button. Pressing the button will prompt the user to a new screen allowing the user to change their email, username, password, or to delete their account.
 * For category two, my plan for enhancement involves implementing search functionality. This enhancement will include adding a user-friendly search bar to the inventory screen filtering through the items. This search functionality will utilize a linear search algorithm which will allow users to locate a specific item.
 * For category three, my plan for enhancement is to build upon the current database. My plan is to strengthen the security of my inventory application by implementing password hashing. Currently, my inventory application uses a SQLight database to store user passwords as plain text. In addition to password hashing, I would like to add password recovery for users. Developing a password recovery mechanism by generating password reset links. The enhancement will ensure a more secure storage method and user security.
@@ -86,7 +86,6 @@ Reflecting on the process of enhancing and modifying the artifact, I have learne
 
 
 
-The Artifact I'm going to look at is my inventory application. The goal of this application is to track inventory items. This application was developed within android studio using java featuring an SQLite database. This application was from my CS 360 Mobile Architecture and Programming course and was created last term. 
 
 Selecting my inventory application for the algorithms and data structures justifies the inclusion for my ePortfolio. Implementing the linear search functionality enhances my inventory application by enabling users to locate a specific item. This enhancement shows my proficiency in algorithm design, particularly through the implementation of the linear search algorithm. Additionally, integrating the search bar and interacting with the RecyclerView demonstrates my skills in UI/UX design and event handling. The artifact was improved by enhancing the user experience with search functionality, addressing a limitation I had with my original application.
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -125,7 +124,7 @@ Enhancing and modifying the artifact, partially in implementing the search funct
 
 
 
-The Artifact I'm going to look at is my inventory application. The goal of this application is to track inventory items. This application was developed within android studio using java featuring an SQLite database. This application was from my CS 360 Mobile Architecture and Programming course and was created last term.
+
    
 
 Selecting my inventory application for the database section of the enhancements justifies my inclusion for my ePortfolio. I have selected this artifact because it has allowed me to showcase various software development skills and techniques. This inventory application has allowed me to demonstrate database design, UI/UX design, and data management. I demonstrated these skills by transitioning to Firebase from SQLite, creating user-friendly UI design for account creation and password resetting.  Allowing me to design and develop a practical application. For my database enhancement, I initially proposed implementing passwords hashing with a SHA-256 algorithm to store user passwords and implementing a password reset feature. In my original artifact user passwords were being stored as plain text within the SQLite database. This was a vulnerability within my application as it does not follow secure practices. As well as there was no current way to for a user to reset their password if forgotten. To address this, I implemented password hashing using the SHA-256 algorithm. The hashed passwords were then stored into my SQLite database. To enhance security, I implemented password hashing mechanism into the authentication process. First, I started by creating a new java class named PasswordHash. The hashPassword() function takes a plain text password as the input and returns a hashed password. The class converts the plain text into a byte array using the getBytes() method, then the byte array is converted into a hexadecimal string. While this worked as intended after tests, I ran into another limitation in my application. Including a password reset function that truly worked and remained secure was a problem. The inventory application stored and verified the user information locally using SQLite. 

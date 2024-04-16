@@ -9,6 +9,7 @@ My name is Joshua James and welcome to my ePortfolio. My ePortfolio consists of 
   - [Initial Plan](#initial-plan)
 - [Software Design and Engineering](#software-design-and-engineering)
   - [Software Design and Engineering Enhancement](#software-design-and-engineering-enhancement)
+  - [Software Design and Engineering Narrative](#software-design-and-engineering-narrative)
 - [Algorithms and Data Structure](#algorithms-and-data-structure)
   - [Algorithms and Data Structure Enhancement](#algorithms-and-data-structure-enhancement)
 - [Databases](#databases)
@@ -81,6 +82,10 @@ Reflecting on the process of enhancing and modifying the artifact, I have learne
 
 ### Software Design and Engineering Enhancement
 [![Enhancement One](https://img.shields.io/badge/Enhancement%20One-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/tree/main/enhancements/Software%20Design%20and%20Engineering/)
+
+### Software Design and Engineering Narrative
+[![Software Design and Engineering Narrative](https://img.shields.io/badge/Enhancement%20One-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/blob/main/CS499/Software%20Design%20and%20Engineering%20Narritive.pdf)
+
 
 <img id="algorithms-and-data-structure" src="images/Algorithms and Data Structure.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
 

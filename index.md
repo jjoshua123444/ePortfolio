@@ -48,7 +48,9 @@ In my code review I discussed my artifact I have selected for the three key comp
 ### Initial Plan
 My inital plans for enhancements inlcuded:
 * For category one Software Engineering and Design, my plan for enhancement is expand on to my current applications user account. I would like to request new users to register with an email address. In addition, I plan to incorporate a side menu. Within the menu I plan to add log out functionality, allowing for the logged in user to log out of the account. As well as within the side bar menu I plan to add an account settings button. Pressing the button will prompt the user to a new screen allowing the user to change their email, username, password, or to delete their account.
+
 * For category two Algorithm and Data Structures, my plan for enhancement involves implementing search functionality. This enhancement will include adding a user-friendly search bar to the inventory screen filtering through the items. This search functionality will utilize a linear search algorithm which will allow users to locate a specific item.
+
 * For category three Databases, my plan for enhancement is to build upon the current database. My plan is to strengthen the security of my inventory application by implementing password hashing. Currently, my inventory application uses a SQLight database to store user passwords as plain text. In addition to password hashing, I would like to add password recovery for users. Developing a password recovery mechanism by generating password reset links. The enhancement will ensure a more secure storage method and user security.
 
 <img id="software-design-and-engineering" src="images/Software Design and Engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />

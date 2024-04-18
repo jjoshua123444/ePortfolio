@@ -1,16 +1,6 @@
 ![Welcome](images/Welcome.png)
 
-My name is Joshua James and welcome to my ePortfolio. My ePortfolio consists of my experience attending at Southern New Hampshire University.
-
-After graduating high school in Las Vegas, NV, I began my academic journey at a community college, where I focused on completing my general education classes. After consideration I found that the Computer Science Program at SNHU better fit my goals.
-
-I enrolled at SNHU during the year 2020 and have spent four years studying here. Throughout the program I have learned many new concepts and skills. Three of the most important concepts I have learned about are the software development lifecycle, understanding and being proficient in new programming languages, as well as technical concepts like databases, algorithms, and more.
-
-The skills I aim to demonstrate in my enhancements are ones I have learned at SNHU and on a personal level. Some of the skills I would like to demonstrate is my proficiency in developing, testing, and providing solutions to problems in my code. My overall goal is to showcase my understanding of the course outcomes by applying them to my enhancements. Making sure to provide code that is understandable and manageable as well as sticking to the deadline.
-
-The specific skills I plan to demonstrate align with my career plans related to my Computer Science degree. Looking ahead to my career, I envision myself becoming a software engineer that has a strong foundation to be applied to the real world. Committing to deliver code that is efficient, well structured, and secured with high quality in a professional career setting.
-
-Having recently completed CS:360 Mobile Architecture and Programming, I have gained a passion for mobile development. The course allowed me to gain a better understanding of the entire development process. From planning and design to coding and testing, ensuring functionality. This experience has given me the confidence in understanding client needs and applying them to a final working application.
+My name is Joshua James, and welcome to my ePortfolio. This ePortfolio showcases my experiences while attending Southern New Hampshire University. Developing my ePortfolio has given me the opportunity to display the skills and knowledge I have gained throughout my academic journey.
 
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)
@@ -28,12 +18,17 @@ Having recently completed CS:360 Mobile Architecture and Programming, I have gai
   - [Databases Narrative](#databases-narrative)
 
 <img id="self-assessment" src="images/ProfessionalSelfAssessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
+I enrolled at Southern New Hampshire University (SNHU) in 2020 and have spent four years studying here. Throughout my program, I have learned many new concepts and skills. Three of the most important areas I've focused on include the software development lifecycle, proficiency in new programming languages, and technical concepts such as databases and algorithms.
 
-Throughout my journey in the Computer Science program and the development of my ePortfolio, I have not only honed my technical skills but also developed a comprehensive set of competencies that will prepare me to succeed in the field of computer science. This ePortfolio serves as a reflection on how completing my coursework has contributed to showcasing my strengths, shaping my professional goals and values, and enhancing my employability in the computer science field. 
+The skills I aim to demonstrate in my enhancements are ones I've learned at SNHU and through personal practice. I want to showcase my proficiency in developing, testing, and solving problems in my code. My goal is to apply the knowledge I've gained to create enhancements that align with course outcomes, delivering code that is clear, manageable, and adheres to deadlines.
 
-Completing various courses while attending SNHU has provided me with a solid foundation in computer science principles, allowing me to effectively apply my knowledge to practical scenarios. These courses have given me the opportunity to demonstrate my ability to collaborate in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and security. SNHU has solidified these skills by providing courses that help me collaborate in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. Throughout these courses, we were given scenarios where we were hired employees. The company would provide a list of requirements and goals for each project. Also, we had to give stakeholders information on the project's requirements and goals to give a better understanding. 
+The specific skills I plan to demonstrate align with my career goals in computer science. Looking ahead, I envision myself becoming a software engineer with a strong foundation for real-world application. I aim to produce code that is efficient, well-structured, secure, and of high quality in a professional setting.
 
-My ePortfolio highlights my selected artifact which is my Inventory Application from my CS 360 Mobile Architect & Programming class. This application shows my abilities and skills around Java, android studio, SQLite databases, CRUD, Firebase Authentication, API integration, libraries, and frameworks, UI/UX design, and linear search algorithms.  
+Throughout my journey in the Computer Science program and the development of my ePortfolio, I've not only honed my technical skills but also cultivated a comprehensive set of competencies that will prepare me to excel in the field. This ePortfolio is a reflection of how completing my coursework has helped me showcase my strengths, shape my professional goals and values, and enhance my employability in computer science.
+
+Completing various courses at SNHU has provided me with a solid foundation in computer science principles, allowing me to apply my knowledge effectively to practical scenarios. These courses have also enabled me to develop teamwork and communication skills, as well as gain experience in data structures, algorithms, software engineering, databases, and security.
+
+My ePortfolio highlights my selected artifact, an Inventory Application from my CS 360 Mobile Architect & Programming class. This application demonstrates my abilities in Java, Android Studio, SQLite databases, CRUD operations, Firebase Authentication, API integration, libraries and frameworks, UI/UX design, and linear search algorithms. 
 
 By selecting this artifact and applying each enhancement, I have demonstrated my ability to reach the following course outcomes: 
 

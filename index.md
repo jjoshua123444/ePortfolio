@@ -1,6 +1,6 @@
 ![Welcome](images/Welcome.png)
 
-My name is Joshua James, and welcome to my ePortfolio. This ePortfolio showcases my experiences while attending Southern New Hampshire University. Developing my ePortfolio has given me the opportunity to display the skills and knowledge I have gained throughout my academic journey.
+My name is Joshua James, and welcome to my ePortfolio. This ePortfolio showcases my experiences while attending Southern New Hampshire University, highlighting my academic journey and professional growth. Through the process of developing my ePortfolio, I have been able to reflect on and display the skills and knowledge I have gained during my studies. By sharing my journey and work, I aim to provide insights into my capabilities and to the field of computer science.
 
 ### Table of Contents
 - [Professional Self Assessment](#self-assessment)
@@ -26,7 +26,7 @@ The specific skills I plan to demonstrate align with my career goals in computer
 
 Throughout my journey in the Computer Science program and the development of my ePortfolio, I've not only honed my technical skills but also cultivated a comprehensive set of competencies that will prepare me to excel in the field. This ePortfolio is a reflection of how completing my coursework has helped me showcase my strengths, shape my professional goals and values, and enhance my employability in computer science.
 
-Completing various courses at SNHU has provided me with a solid foundation in computer science principles, allowing me to apply my knowledge effectively to practical scenarios. These courses have also enabled me to develop teamwork and communication skills, as well as gain experience in data structures, algorithms, software engineering, databases, and security.
+By completing various courses at SNHU, I have built a solid foundation in computer science principles, allowing me to apply my knowledge effectively to practical scenarios. These courses have also enabled me to develop teamwork and communication skills, as well as gain experience in data structures, algorithms, software engineering, databases, and security.
 
 My ePortfolio highlights my selected artifact, an Inventory Application from my CS 360 Mobile Architect & Programming class. This application demonstrates my abilities in Java, Android Studio, SQLite databases, CRUD operations, Firebase Authentication, API integration, libraries and frameworks, UI/UX design, and linear search algorithms. 
 

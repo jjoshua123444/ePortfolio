@@ -87,6 +87,18 @@ The artifact I selected for the software design and engineering category justifi
 
 With this enhancement, I met the course objectives planned in module one. Implementing a side menu with editing and deleting user accounts functionality aligns with Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. Next, I was able to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals. I was able to achieve this by integrating email verification for user registration, and the sidebar menu demonstrates an innovative approach in software development. Lastly, throughout this enhancement I demonstrated a security mindset by anticipating potential vulnerabilities and designing solutions to mitigate risks. Implementing user authentication and authorization will ensure the privacy and security of user data. Additionally, I followed best practices by including confirmation messages for important user actions. For example, when a user would like to delete their account, they have been prompted and must confirm the change.
 
+With the addition of a side menu with editing and deleting user accounts functionality, I was able to meet the course objective planned in module one. This enhancement aligns with: 
+
+* Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices 
+
+Ensuring integrating email verification for user registration, I was able to: 
+
+* Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals 
+
+Lastly implementing user authentication and authorization, I was able to: 
+
+* Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources 
+
 Reflecting on the process of enhancing and modifying the artifact, I have learned new things as well faced challenges. This enhancement specifically gave me insight into understanding the importance of the user. Keeping the user in mind allowed me to focus on improving the user interface (UI) and the user experience (UX) in the design of the enhancement.
 
 ### Software Design and Engineering Enhancement

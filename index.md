@@ -58,6 +58,8 @@ My inital plans for enhancements inlcuded:
 
 * For category three Databases, my plan for enhancement is to build upon the current database. My plan is to strengthen the security of my inventory application by implementing password hashing. Currently, my inventory application uses a SQLight database to store user passwords as plain text. In addition to password hashing, I would like to add password recovery for users. Developing a password recovery mechanism by generating password reset links. The enhancement will ensure a more secure storage method and user security.
 
+[![Initial Plan](https://img.shields.io/badge/Initial%20Plan-gray?style=flat&logo=github)](https://github.com/jjoshua123444/ePortfolio/blob/main/CS499/CS%20499%20Module%20One.pdf)
+
 <img id="software-design-and-engineering" src="images/Software Design and Engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 

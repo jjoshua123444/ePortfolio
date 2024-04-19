@@ -5,7 +5,7 @@
 This repository represents my time within Southern New Hampshire's CS-499 Computer Capstone course. This repository contains all of my files and documents for my ePortfolio. This ePortfolio allows me to highlight my skills, abilities, as well as my capabilites I have learned during my time in the Computer Science program.
 
 ## Initial Plan
-During module one, I was tasked with providing my intial plan for fulfilling the requirements of the ePortfolio, and demonstrate my skills in three key categories in computer science: software design and engineering, algorithm and data structures, and databases. After creating my intial plan I submitted it to recieve feedback from my professor. 
+I was tasked with providing my intial plan for fulfilling the requirements of the ePortfolio, and demonstrate my skills in three key categories in computer science: software design and engineering, algorithm and data structures, and databases. After creating my intial plan I submitted it to recieve feedback from my professor. 
 
 <a href="https://github.com/jjoshua123444/ePortfolio/blob/main/CS499/CS%20499%20Module%20One.pdf">Initial Plan</a>
 

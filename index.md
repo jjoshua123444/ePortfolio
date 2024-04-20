@@ -87,19 +87,23 @@ The artifact I selected for the software design and engineering category justifi
     </div>
 </div>
 
-With this enhancement, I met the course objectives planned in module one. Implementing a side menu with editing and deleting user accounts functionality aligns with Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. Next, I was able to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals. I was able to achieve this by integrating email verification for user registration, and the sidebar menu demonstrates an innovative approach in software development. Lastly, throughout this enhancement I demonstrated a security mindset by anticipating potential vulnerabilities and designing solutions to mitigate risks. Implementing user authentication and authorization will ensure the privacy and security of user data. Additionally, I followed best practices by including confirmation messages for important user actions. For example, when a user would like to delete their account, they have been prompted and must confirm the change.
-
 With the addition of a side menu with editing and deleting user accounts functionality, I was able to meet the course objective planned in module one. This enhancement aligns with: 
 
 * Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices 
+
+The code I have developed effectively applies algorithmic principles to manage user accounts, utilizing methods such as populateUserInfo, updateUserInfo, and deleteAccount to address viewing, updating, and deleting user accounts. I used well-structured algorithms and event-driven design, it creates interactive solutions for user account management in alignment with strong computer science practices. In making design choices, efficient database operations and simple UI elements ensure a smooth user experience while maintaining security and performance standards. 
 
 Ensuring integrating email verification for user registration, I was able to: 
 
 * Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals 
 
-Lastly implementing user authentication and authorization, I was able to: 
+The account creation method accepts user input such as name, username, email, and password from the user interface. The insertUserData method demonstrates the integration of email management within the user registration process by inserting the user’s data, including the email address, into the database using SQLite, ensuring efficient and secure data storage practices. Error handling and validation are managed by checking for empty fields to ensure all necessary data is provided before insertion. Upon successful insertion, the user is redirected to InventoryActivity, signaling a successful account creation. 
 
-* Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources 
+Lastly implementing user authentication and account deleting, I was able to: 
+
+* Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+  
+I manage user accounts through methods like populateUserInfo, updateUserInfo, and deleteAccount, allowing authorized users to access and modify their data securely. Email management is integrated, enabling potential email verification for user registration and account changes, ensuring the integrity of user identity. I perform error handling and validation by checking for empty fields and duplicate usernames during account creation, helping maintain data accuracy and security. By focusing on privacy, security best practices, and user authentication and authorization, I enhance the security of user data while mitigating potential design flaws.
 
 Reflecting on the process of enhancing and modifying the artifact, I have learned new things as well faced challenges. This enhancement specifically gave me insight into understanding the importance of the user. Keeping the user in mind allowed me to focus on improving the user interface (UI) and the user experience (UX) in the design of the enhancement.
 

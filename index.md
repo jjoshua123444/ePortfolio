@@ -137,7 +137,7 @@ Selecting my inventory application for the algorithms and data structures justif
     </div>
 </div>
 
-With the addition of search functionality on my inventory screen, I was able to meet the course objective planned in module one. This enhancement aligns with:  
+With the addition of search functionality on my inventory screen, I was able to meet the course objective planned in module one. This enhancement aligns with:
 
 •	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices 
 

@@ -48,7 +48,8 @@ In my code review I discussed my artifact I have selected for the three key comp
 
 ### Code Review Video
 
-[![Alt Text](https://img.youtube.com/vi/QdR5M0L0On4/maxresdefault.jpg)](https://youtu.be/QdR5M0L0On4)
+[![Alt Text](https://github.com/jjoshua123444/ePortfolio/blob/main/images/thumbnail.png)](https://youtu.be/QdR5M0L0On4)
+
 
 ### Initial Plan
 My inital plans for enhancements inlcuded:
